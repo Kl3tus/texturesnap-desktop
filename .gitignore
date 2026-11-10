@@ -1,0 +1,13 @@
+# Closed Source Distribution - Source Code & Internal Artifacts Ignored
+*.py
+*.pyc
+*.spec
+*.bat
+*.sh
+*.lic
+*.log
+*.exe
+build/
+dist/
+__pycache__/
+web_studio/
